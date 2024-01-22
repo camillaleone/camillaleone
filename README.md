@@ -30,9 +30,9 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="182" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.gif"  />
+<div align="left">
+<img height="182" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.webp"/>
+</div>
 
 ###
 
