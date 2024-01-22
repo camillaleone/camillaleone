@@ -39,7 +39,7 @@
 
 ###
 
-<br clear="both">
+<br src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.gif">
 
 <img src="https://raw.githubusercontent.com/camillaleone/camillaleone/output/snake.svg" alt="Snake animation" />
 
