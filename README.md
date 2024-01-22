@@ -1,14 +1,14 @@
-<h2 align="left">Hi! 🌈 My name is Camilla <br>I'm a Data Analyst student 📚</h2>
+<h2 align="left">Hi! 🌈 My name is Camilla</h2>
+
+###
+
+<p align="left">I'm a Junior Data Analyst 📚</p>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=camillaleone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.gif"  />
 
 ###
 
@@ -30,6 +30,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.gif"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -39,8 +45,11 @@
 
 ###
 
-<br src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.gif">
-
 <img src="https://raw.githubusercontent.com/camillaleone/camillaleone/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+</div>
 
 ###
